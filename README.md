@@ -8,3 +8,5 @@
  - run some basic data exploration on the resulting files
 
 Website: https://www.framinghamma.gov/DocumentCenter/Home/Index/149
+
+These notebooks show proficiency with using python fo data wrrangling via pandas, regex patterns, file structures, and plotting.
